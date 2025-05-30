@@ -22,4 +22,4 @@ COPY . .
 
 # Command to run your application
 # Replace your_main_bot_script.py with the actual name of your main bot file
-CMD ["python", "your_main_bot_script.py"]
+CMD ["python", "downloadbot.py"]
